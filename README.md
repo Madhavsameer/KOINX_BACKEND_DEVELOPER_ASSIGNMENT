@@ -25,3 +25,8 @@
 - **Endpoint:** `/api/balance/:address`
 - **Method:** `GET`
 - **Description:** Retrieves the balance information for a given Ethereum address.
+
+
+#For running the app in local machine just create a .env file in project root directory and add:-
+
+MONGODB_URI=""
