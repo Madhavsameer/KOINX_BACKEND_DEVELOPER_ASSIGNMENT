@@ -29,4 +29,4 @@
 
 #For running the app in local machine just create a .env file in project root directory and add:-
 
-MONGODB_URI=""
+MONGODB_URI="your_local_mongodb_database_url"
